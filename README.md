@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=안녕하세요%20새내기%20개발자%20신승호입니다.&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=안녕하세요%20새내기%20개발자%20신승호입니다.&fontSize=30&fontColor=000000)
 
 # 🎵 Hello! I'm 🎶
 
