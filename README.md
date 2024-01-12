@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=안녕하세요%20신승호입니다.&fontSize=60)
 
-
-
-# 🎵 Hello! I'm... 🎶
+# 🎵 Hello! I'm 🎶
 
 <br>
 
@@ -39,17 +37,22 @@
 
 
 
-# hobby
+# 🏝️ hobby
 
 - 배드민턴 🏸
 - 수영 🏊 
 - 야구관람 (SSG랜더스)
 - 게임(롤 하스스톤 배틀그라운드)
-# 💼Certificate
+
+
+# 💼 Certificate
 - ADsP
 - SQLD
+- OPIC
 
-# Q&A
+
+
+# 🧑 Q&A
 mbti: enfj
 
 각오: 모르는게 생기면 다음으로 미루지 않고 바로 습득하겠습니다.
