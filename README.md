@@ -1,16 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=안녕하세요%20새내기%20개발자%20신승호입니다.&fontSize=30&fontColor=000000&animation=fadeIn)
-
 # 🎵 Hello! I'm 🎶
-
-<br>
 
 ### 항상 Why를 생각하는 ❓
 
 ### 꾸준히 성장하는 ✒
 
-### Data-Scientist & 🔬
+### Data-Scientist & 개발자
 
-### 개발자 신승호 입니다 😀
+### 신승호 입니다 😀
 
 # 🎓 EXPERIENCE
 
@@ -31,12 +27,10 @@
 - 고령층을 위한 금융사기거래 방지 서비스
 - 투자자들을 위한 뉴스 기사 요약정보 및 키워드 제공 서비스
 
-# 🏝️ hobby
+개발
 
-- 배드민턴 🏸
-- 수영 🏊
-- 야구관람 (SSG랜더스) ⚾
-- 게임(롤 하스스톤 배틀그라운드) 🎮
+- 함께 꾸며가는 운동일지fit-do 서비스
+- 한 곳에서 해결하는 알고리즘 스터디! AltTab
 
 # 💼 Certificate
 
