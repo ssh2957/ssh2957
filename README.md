@@ -66,27 +66,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
 
-# 🧑 Q&A
-MBTI 및 나의 성격과 성향: ENFJ
-
-잠이 많아요. 사람들과 대화하는걸 좋아합니다. 많이 다가와 주세요!
-
-각오: 모르는게 생기면 다음으로 미루지 않고 바로 습득하겠습니다.
-
-좋아하는 것 : 고양이,야구
-
-싫어하는 것 : 야채..
-
-어떤 개발자가 되고 싶은가? : 데이터 분석 역량과 결합하여 소비자 맞춤형 
-서비스를 제공하는 개발자
-
-싸피에서 가장 해보고 싶은 것: B형 취득, 스터디 , 많은 개발자 친구 만들기, 자격증 따기==>> 취뽀!!
-
-백준티어?!: UNRANK
-
-거주지: 인천/서울대입구역
-
-좋아하는 음악: 신나는 음악 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh2957&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
