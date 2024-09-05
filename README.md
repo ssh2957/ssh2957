@@ -6,8 +6,6 @@
 
 ### Data-Scientist & 개발자
 
-### 신승호 입니다 😀
-
 # 🎓 EXPERIENCE
 
 - 2024.01 ~ 삼성 청년 SW 아카데미 11기 교육 (java)
